@@ -1,0 +1,16 @@
+folder_in: /home/user2/tst/file
+folder_out: /home/user2/tst/out
+folder_ext: /home/user2/tst/ext
+folder_badarx: /home/user2/tst/badarx
+
+count_file: 5
+size_file: 1M
+type_archive: zip
+
+
+local_path: /home/user
+remote_path: /home/user2
+host: 0.0.0.0
+user: user2
+
+start_file: /home/user2/start-ssh.txt
